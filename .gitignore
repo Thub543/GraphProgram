@@ -1,0 +1,13 @@
+**/.vscode
+**/.idea
+**/.class
+.DS_Store
+**/out
+*.iml
+
+# Compiled Files
+
+bin/
+build/
+/bin1/
+java/build/**
